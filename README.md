@@ -2,7 +2,6 @@
   <img src="https://media1.tenor.com/m/a415SFp9LwkAAAAC/zara-larsson-stateside.gif" width="300" alt="Zara Larsson GIF" />
 </p>
 
-HTML
 <h1 align="center">
   <sub>Hello, I'm Shawn Michael S. Porras</sub>
 </h1>
