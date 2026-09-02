@@ -4,7 +4,7 @@
 
 HTML
 <h1 align="center">
-  <sub>Hi 👋, I'm Shawn Michael S. Porras</sub>
+  <sub>Hello, I'm Shawn Michael S. Porras</sub>
 </h1>
 
 <h3 align="center">A BSIT student from CJC</h3>
