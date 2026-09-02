@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shawn Porras</h1>
+<h1 align="center">Hi 👋, I'm Shawn Michael S. Porras</h1>
 <h3 align="center">A BSIT student from CJC</h3>
 
 - 📫 How to reach me **shawnmichaelporras@gmail.com**
@@ -14,5 +14,5 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/JSV1zpt0EZYAAAAd/lianne-liannetheworld.gif" width="300" alt="Lianne GIF" />
+  <img src="https://media1.tenor.com/m/a415SFp9LwkAAAAC/zara-larsson-stateside.gif" width="300" alt="Zara Larsson GIF" />
 </p>
