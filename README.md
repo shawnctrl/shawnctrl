@@ -14,5 +14,5 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://tenor.com/view/lianne-liannetheworld-pinkpantheress-pinkpantheress2-pinkpantheress-illegal-gif-2676675083773415830)" width="400" alt="Coding Animation" />
+  <img src="https://media.tenor.com/view/lianne-liannetheworld-pinkpantheress-pinkpantheress2-pinkpantheress-illegal-gif-2676675083773415830.gif" width="300" alt="Pinkpantheress GIF" />
 </p>
