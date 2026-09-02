@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shawnmichaelporras@gmail.com**
 
-- ⚡ Fun fact **I draw big burly men**
+- ⚡ Fun fact: **I love to draw in tradtional and digital**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
