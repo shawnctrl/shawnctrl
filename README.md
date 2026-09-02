@@ -2,9 +2,10 @@
   <img src="https://media1.tenor.com/m/a415SFp9LwkAAAAC/zara-larsson-stateside.gif" width="300" alt="Zara Larsson GIF" />
 </p>
 
-<p align="center">
-  <b><font size="7">Hi, I'm Shawn Michael S. Porras</font></b>
-</p>
+HTML
+<h1 align="center">
+  <sub>Hi 👋, I'm Shawn Michael S. Porras</sub>
+</h1>
 
 <h3 align="center">A BSIT student from CJC</h3>
 
