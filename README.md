@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <b><font size="6">Hi 👋, I'm Shawn Michael S. Porras</font></b>
+  <b><font size="6">Hi, I'm Shawn Michael S. Porras</font></b>
 </p>
 
 <h3 align="center">A BSIT student from CJC</h3>
 
-- 📫 How to reach me **shawnmichaelporras@gmail.com**
+- How to reach me **shawnmichaelporras@gmail.com**
 
-- ⚡ Fun fact: **I love to draw in tradtional and digital**
+- Fun fact: **I love to draw in tradtional and digital**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
