@@ -8,7 +8,7 @@
 
 <h3 align="center">A BSIT student from CJC</h3>
 
-- How to reach me **shawnmichaelporras@gmail.com**
+- Contact: **shawnmichaelporras@gmail.com**
 
 - Fun fact: **I love to draw in tradtional and digital**
 
