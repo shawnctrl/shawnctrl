@@ -1,0 +1,7 @@
+student = {"name": "Shawn", "age": 21, "course": "BSIT"}
+
+student.pop("course")
+student["hobbies"] = "Drawing, Reading, Cooking"
+
+print(student)
+

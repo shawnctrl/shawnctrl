@@ -1,0 +1,4 @@
+phonebook = {"Anna" : "09123456789", "Mark" : "09987654321", "Liza" : "09876543210"}
+
+for name, number in phonebook.items():
+    print(name, ":", number)
