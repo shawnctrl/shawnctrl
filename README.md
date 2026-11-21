@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/a415SFp9LwkAAAAC/zara-larsson-stateside.gif" width="300" alt="Zara Larsson GIF" />
+  <img src="13241324_e8d7e.gif" width="250" alt="Captain Caviar GIF" />
 </p>
 
 <h1 align="center">
